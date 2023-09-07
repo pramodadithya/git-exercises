@@ -6,8 +6,9 @@ The goal of these exercises is to quickly review some topics and demonstrate kno
 
 ### Table of contents
 
-| Topic        | Exercise                                                             |
-| ------------ | -------------------------------------------------------------------- |
-| 1. Basic     | [Basics/GitBasics-Exercise.md](./Basics/GitBasics-Exercise.md)       |
-| 2. Branching | [Branching/Branching-Exercise.md](./Branching/Branching-Exercise.md) |
-| 3. Merging   | [Merging/Merging-Exercise.md](./Merging/Merging-Exercise.md)         |
+| Topic        | Exercise                                                               |
+| ------------ | ---------------------------------------------------------------------- |
+| 1. Basic     | [1.Basics/GitBasics-Exercise.md](./Basics/GitBasics-Exercise.md)       |
+| 2. Branching | [2.Branching/Branching-Exercise.md](./Branching/Branching-Exercise.md) |
+| 3. Merging   | [3.Merging/Merging-Exercise.md](./Merging/Merging-Exercise.md)         |
+| 4. Diff      | [4.Diff/Diff-Exercise](./4.Diff/Diff-Exercise.md)                      |
