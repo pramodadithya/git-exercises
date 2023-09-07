@@ -13,3 +13,4 @@ The goal of these exercises is to quickly review some topics and demonstrate kno
 | 3. Merging   | [3.Merging/Merging-Exercise.md](./Merging/Merging-Exercise.md)         |
 | 4. Diff      | [4.Diff/Diff-Exercise](./4.Diff/Diff-Exercise.md)                      |
 | 5. Stashing  | [5.Stashing/Stashing-Exercise](./5.Stashing/Stashing-Exercise.md)      |
+| 6. Undoing   | [6.Undoing/Undoing-Exercise.md](./6.Undoing/Undoing-Exercise.md)       |
